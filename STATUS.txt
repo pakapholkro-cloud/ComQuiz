@@ -1,0 +1,8 @@
+ComQuiz 1.1.0 complete package
+Easy / Medium / Hard, 90 questions, separate category-level best scores.
+Source + compiled web demo + Android APK + updated Thai guides.
+Analyzer clean; 20 tests passed; four browser rounds and legacy migration passed.
+APK v2 signature, manifest, APK and ZIP CRC verified.
+New APK uses a different debug certificate from v1.0; uninstall old APK first if installed. Uninstalling removes local data.
+Physical Android installation has not been tested.
+See START_HERE.txt and docs/VALIDATION.md.

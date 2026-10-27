@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "ComQuiz - Chrome", "request": "launch", "type": "dart", "deviceId": "chrome", "toolArgs": ["--dart-define-from-file=author.json"]},
+    {"name": "ComQuiz - Android", "request": "launch", "type": "dart", "toolArgs": ["--dart-define-from-file=author.json"]}
+  ]
+}
